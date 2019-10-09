@@ -1,0 +1,14 @@
+Node_Computed 
+
+Echo Requests Sent 	Echo Requests Received 	Echo Replies Sent  	Echo Replies Received 	
+40,4,4,40,
+ Echo Request Bytes Sent 	Echo Request Data Sent 	
+115620,11312,
+ Echo Request Bytes Received	Echo Request Data Received 	
+2000,1832,
+
+ Average RTT (ms) 	8.31
+ Echo Request Throughput(kB/sec) 	57579.7
+ Echo Request Goodput (kB/sec) 	5633.5
+ Average Reply Delay (microseconds) 	15.84
+ Average Echo Request Hop Count 	32.46
